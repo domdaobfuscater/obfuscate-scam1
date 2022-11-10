@@ -2,7 +2,8 @@
 --made by xd beaming dont copy this skid skid skid ass niggga
 local Whitelist = {
     "Pellegurka500"
-    
+    "driego1245"
+
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("auto scam v2 script", "BloodTheme")
 
